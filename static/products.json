@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Bồn cầu Rivius",
+    "image": "/images/rivius.jpg",
+    "nguyen_kim": 3500000,
+    "dien_may_xanh": 3550000,
+    "cho_lon": 3400000
+  },
+  {
+    "id": 2,
+    "name": "Chậu rửa Rivius",
+    "image": "/images/chau-rua.jpg",
+    "nguyen_kim": 1200000,
+    "dien_may_xanh": 1190000,
+    "cho_lon": 1150000
+  },
+  {
+    "id": 3,
+    "name": "Vòi sen Rivius",
+    "image": "/images/voi-sen.jpg",
+    "nguyen_kim": null,
+    "dien_may_xanh": 1190000,
+    "cho_lon": 1150000
+  },
+  {
+    "id": 1754365451133,
+    "name": "Bồn Tắm",
+    "image": "/images/luxannam.jpg",
+    "nguyen_kim": 4344333,
+    "dien_may_xanh": 4343434,
+    "cho_lon": 4343422
+  },
+  {
+    "id": 1754367365227,
+    "name": "Mai Hân",
+    "image": "/images/mai-han.jpg",
+    "nguyen_kim": 29000,
+    "dien_may_xanh": 50000,
+    "cho_lon": 40000
+  }
+]
