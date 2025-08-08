@@ -80,22 +80,6 @@
         "cho_lon": 8190000
     },
     {
-        "id": 10,
-        "name": "Mặt Tủ Bespoke (Tủ Lạnh 4 Cửa - Mặt Trên) - Xanh Skyblue",
-        "image": "images/Mặt Tủ Bespoke Xanh Skyblue.webp",
-        "nguyen_kim": null,
-        "dien_may_xanh": null,
-        "cho_lon": 2990000
-    },
-    {
-        "id": 11,
-        "name": "Mặt Tủ Bespoke (Tủ Lạnh 4 Cửa - Mặt Dưới) - Xanh Skyblue",
-        "image": "images/Mặt Tủ Bespoke Xanh Skyblue.webp",
-        "nguyen_kim": null,
-        "dien_may_xanh": null,
-        "cho_lon": 2990000
-    },
-    {
         "id": 12,
         "name": "Mặt Tủ Bespoke (Tủ Lạnh 4 Cửa - Mặt Dưới) - Xanh Skyblue",
         "image": "images/Mặt Tủ Bespoke Xanh Skyblue.webp",
