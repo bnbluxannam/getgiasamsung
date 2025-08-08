@@ -1,6 +1,6 @@
 <script>
-	import Header from './Header.svelte';
-	import '../app.css';
+	import Header from "./Header.svelte";
+	import "../app.css";
 
 	/** @type {{children: import('svelte').Snippet}} */
 	let { children } = $props();
@@ -14,9 +14,8 @@
 	</main>
 
 	<footer>
-		<p>
-			visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to learn about SvelteKit
-		</p>
+		© {new Date().getFullYear()} <strong>Lux Annam Rivius</strong>. All
+		rights reserved.
 	</footer>
 </div>
 
@@ -39,20 +38,12 @@
 	}
 
 	footer {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		padding: 12px;
-	}
-
-	footer a {
-		font-weight: bold;
-	}
-
-	@media (min-width: 480px) {
-		footer {
-			padding: 12px 0;
-		}
+		background-color: #111;
+		color: #ccc;
+		padding: 1.5rem 0;
+		font-size: 0.9rem;
+		text-align: center;
+		margin-top: 3rem;
+		border-top: 2px solid #333;
 	}
 </style>

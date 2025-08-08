@@ -71,7 +71,7 @@
 
 	async function refreshPrices() {
 		priceLoading = true;
-		await fetchProducts(3000 + Math.random() * 2000);
+		await fetchProducts(10000 + Math.random() * 2000);
 		priceLoading = false;
 	}
 </script>

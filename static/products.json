@@ -518,6 +518,181 @@
         "nguyen_kim": 4990000,
         "dien_may_xanh": 4890000,
         "cho_lon": 4890000
+    },
+    {
+        "id": 64,
+        "name": "7400W Bếp Từ Bespoke -Vùng Nấu Dual Flex Zone, Trắng/Be",
+        "image": "images/7400W Bếp Từ Bespoke -Vùng Nấu Dual Flex Zone, TrắngBe.webp",
+        "nguyen_kim": 24990000,
+        "dien_may_xanh": 24990000,
+        "cho_lon": 24490000
+    },
+    {
+        "id": 65,
+        "name": "655L Tủ Lạnh Bespoke AI Side by Side -SpaceMax™, Bạc",
+        "image": "images/655L Tủ Lạnh Bespoke AI Side by Side -SpaceMax™, Bạc.png",
+        "nguyen_kim": 17490000,
+        "dien_may_xanh": 20890000,
+        "cho_lon": 19890000
+    },
+    {
+        "id": 66,
+        "name": "655L Tủ Lạnh Bespoke AI Side by Side -SpaceMax™, Đen",
+        "image": "images/655L Tủ Lạnh Bespoke AI Side by Side -SpaceMax™, Đen.png",
+        "nguyen_kim": 17490000,
+        "dien_may_xanh": 21290000,
+        "cho_lon": 20290000
+    },
+    {
+        "id": 67,
+        "name": "635L Tủ Lạnh Bespoke AI Side by Side -SpaceMax™, Đen",
+        "image": "images/635L Tủ Lạnh Bespoke AI Side by Side -SpaceMax™, Đen.png",
+        "nguyen_kim": 29990000,
+        "dien_may_xanh": 32810000,
+        "cho_lon": 32390000
+    },
+    {
+        "id": 68,
+        "name": "634L Tủ Lạnh Bespoke AI Side by Side -Mở Cửa Tự Động, Đen",
+        "image": "images/634L Tủ Lạnh Bespoke AI Side by Side -Mở Cửa Tự Động, Đen.webp",
+        "nguyen_kim": 39990000,
+        "dien_may_xanh": 35050000,
+        "cho_lon": 34630000
+    },
+    {
+        "id": 69,
+        "name": "636L Tủ Lạnh Bespoke AI 4 Cửa -AI Family Hub™+, Trắng",
+        "image": "images/636L Tủ Lạnh Bespoke AI 4 Cửa -AI Family Hub™+, Trắng.png",
+        "nguyen_kim": 89990000,
+        "dien_may_xanh": 98190000,
+        "cho_lon": 82430000
+    },
+    {
+        "id": 70,
+        "name": "648L Tủ Lạnh Bespoke AI 4 Cửa -Beverage Center™, Đen",
+        "image": "images/648L Tủ Lạnh Bespoke AI 4 Cửa -Beverage Center™, Đen.webp",
+        "nguyen_kim": 36490000,
+        "dien_may_xanh": 41210000,
+        "cho_lon": 40790000
+    },
+    {
+        "id": 71,
+        "name": "448L Bespoke Tủ Lạnh 4 Cửa với Beverage Center™, Đen",
+        "image": "images/448L Bespoke Tủ Lạnh 4 Cửa với Beverage Center™, Đen.png",
+        "nguyen_kim": 25090000,
+        "dien_may_xanh": 20410000,
+        "cho_lon": 19990000
+    },
+    {
+        "id": 72,
+        "name": "460L Tủ Lạnh Bespoke AI Đông Trên -Optimal Fresh+,Xanh",
+        "image": "images/460L Tủ Lạnh Bespoke AI Đông Trên -Optimal Fresh+,Xanh.png",
+        "nguyen_kim": 17190000,
+        "dien_may_xanh": 17610000,
+        "cho_lon": 17190000
+    },
+    {
+        "id": 73,
+        "name": "406L Tủ Lạnh Ngăn Đông Trên -Optimal Fresh+, Đen",
+        "image": "images/406L Tủ Lạnh Ngăn Đông Trên -Optimal Fresh+, Đen.webp",
+        "nguyen_kim": 12990000,
+        "dien_may_xanh": 15710000,
+        "cho_lon": 15290000
+    },
+    {
+        "id": 74,
+        "name": "406L Tủ Lạnh Bespoke AI Đông Trên -Optimal Fresh+, Nâu",
+        "image": "images/406L Tủ Lạnh Bespoke AI Đông Trên -Optimal Fresh+, Nâu.png",
+        "nguyen_kim": null,
+        "dien_may_xanh": 14600000,
+        "cho_lon": 14180000
+    },
+    {
+        "id": 75,
+        "name": "385L Tủ Lạnh Bespoke AI Đông Trên -Optimal Fresh+, Trắng",
+        "image": "images/406L Tủ Lạnh Bespoke AI Đông Trên -Optimal Fresh+, Nâu.png",
+        "nguyen_kim": 10990000,
+        "dien_may_xanh": null,
+        "cho_lon": 11990000
+    },
+    {
+        "id": 76,
+        "name": "385L Tủ Lạnh Bespoke AI Đông Trên -Optimal Fresh+, Trắng",
+        "image": "images/385L Tủ Lạnh Bespoke AI Đông Trên -Optimal Fresh+, Trắng.webp",
+        "nguyen_kim": 10990000,
+        "dien_may_xanh": null,
+        "cho_lon": 11990000
+    },
+    {
+        "id": 77,
+        "name": "382L Tủ Lạnh Bespoke AI Đông Trên -Optimal Fresh+, Nâu",
+        "image": "images/382L Tủ Lạnh Bespoke AI Đông Trên -Optimal Fresh+, Nâu.png",
+        "nguyen_kim": 14290000,
+        "dien_may_xanh": 10970000,
+        "cho_lon": 12790000
+    },
+    {
+        "id": 78,
+        "name": "305L Tủ Lạnh Bespoke AI Đông Trên -Optimal Fresh+, Xanh",
+        "image": "images/305L Tủ Lạnh Bespoke AI Đông Trên -Optimal Fresh+, Xanh.png",
+        "nguyen_kim": 10990000,
+        "dien_may_xanh": 8880000,
+        "cho_lon": 12250000
+    },
+    {
+        "id": 79,
+        "name": "615L Tủ Lạnh Bespoke AI Side by Side -AI Home, Đen",
+        "image": "images/615L Tủ Lạnh Bespoke AI Side by Side -AI Home, Đen.webp",
+        "nguyen_kim": 42990000,
+        "dien_may_xanh": 46110000,
+        "cho_lon": 38700000
+    },
+    {
+        "id": 80,
+        "name": "578L Tủ Lạnh Bespoke AI Side by Side -SpaceMax™, Đen",
+        "image": "images/578L Tủ Lạnh Bespoke AI Side by Side -SpaceMax™, Đen.webp",
+        "nguyen_kim": 17990000,
+        "dien_may_xanh": 20110000,
+        "cho_lon": null
+    },
+    {
+        "id": 81,
+        "name": "583L Tủ Lạnh Bespoke AI Side by Side -SpaceMax™, Bạc",
+        "image": "images/583L Tủ Lạnh Bespoke AI Side by Side -SpaceMax™, Bạc.png",
+        "nguyen_kim": null,
+        "dien_may_xanh": 18110000,
+        "cho_lon": null
+    },
+    {
+        "id": 82,
+        "name": "648L Tủ Lạnh Bespoke AI 4 Cửa -Beverage Center™, Trắng/Be",
+        "image": "images/648L Tủ Lạnh Bespoke AI 4 Cửa -Beverage Center™, TrắngBe.png",
+        "nguyen_kim": 39990000,
+        "dien_may_xanh": 46610000,
+        "cho_lon": 39790000
+    },
+    {
+        "id": 83,
+        "name": "488L Tủ Lạnh 4 Cửa -Ngăn Nước Ngoài, Bạc",
+        "image": "images/488L Tủ Lạnh 4 Cửa -Ngăn Nước Ngoài, Bạc.png",
+        "nguyen_kim": null,
+        "dien_may_xanh": 24990000,
+        "cho_lon": 19990000
+    },
+    {
+        "id": 84,
+        "name": "488L Tủ Lạnh 4 Cửa -Twin Cooling Plus™, Đen",
+        "image": "images/488L Tủ Lạnh 4 Cửa -Twin Cooling Plus™, Đen.png",
+        "nguyen_kim": 18990000,
+        "dien_may_xanh": 16490000,
+        "cho_lon": 15490000
+    },
+    {
+        "id": 85,
+        "name": "382L Tủ Lạnh Ngăn Đông Trên -Optimal Fresh+, Đen",
+        "image": "images/382L Tủ Lạnh Ngăn Đông Trên -Optimal Fresh+, Đen.png",
+        "nguyen_kim": 12290000,
+        "dien_may_xanh": 12140000,
+        "cho_lon": null
     }
-    
 ]
